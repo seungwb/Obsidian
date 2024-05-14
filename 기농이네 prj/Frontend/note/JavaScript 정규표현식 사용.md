@@ -25,7 +25,9 @@ if (!/^[a-zA-Z0-9]+@[a-zA-Z0-9]+\.[a-zA-Z]+$/.test(email)) {
 !== 가 아닌 test 메소드를 이용해 비교를 하는 것을 보고 무엇인지 알아보기 위해 mdn을 참고하였다.
 
 
-![[스크린샷 2024-04-28 191841.png]]```
+![](https://i.imgur.com/7WKrGfh.png)
+
+
 ```js
 const str = "hello world!";
 const result = /^hello/.test(str);

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick Manual/Quick Manual.md",
+                "file": "기농이네 prj/Backend/note/Auto Increment로 생성된 id 재사용.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quick Manual/Quick Manual.md",
+                "file": "기농이네 prj/Backend/note/Auto Increment로 생성된 id 재사용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quick Manual/Quick Manual.md",
+                "file": "기농이네 prj/Backend/note/Auto Increment로 생성된 id 재사용.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quick Manual/Quick Manual.md"
+                "file": "기농이네 prj/Backend/note/Auto Increment로 생성된 id 재사용.md"
               }
             }
           },
@@ -157,32 +157,32 @@
   },
   "active": "5cfec6b5e807caf1",
   "lastOpenFiles": [
-    "Quick Manual/etc/etc.md",
-    "Quick Manual/etc/note/자주 쓰이는 정규 표현식.md",
+    "기농이네 prj/Backend/note/Mapper 파일 맵핑 에러.md",
+    "기농이네 prj/Backend/note/reg페이지 post요청 시 403 에러.md",
+    "기농이네 prj/Frontend/note/로그인 시 비밀번호 표시.md",
+    "기농이네 prj/Frontend/note/JavaScript 정규표현식 사용.md",
+    "기농이네 prj/Frontend/note/Selector 옵션 hover 시 색이 파란색으로 고정.md",
     "Quick Manual/Frontend/Frontend.md",
+    "Quick Manual/etc/etc.md",
+    "Quick Manual/Backend/Backend.md",
     "Quick Manual/Quick Manual.md",
+    "README.md",
+    "Quick Manual/etc/note/자주 쓰이는 정규 표현식.md",
     "기농이네 prj/Frontend/Frontend.md",
     "Quick Manual/etc/note",
     "Quick Manual/Frontend/note/Selector 옵션 선택 시 파란색 고정인 것을 수정하고 싶을 때.md",
     "Quick Manual/Frontend/note",
-    "Quick Manual/Backend/Backend.md",
     "Quick Manual/Backend/note/MariaDB 난수 만들기.md",
     "Quick Manual/Backend/note/Auto Increment로 생성된 컬럼 값 넘겨받기.md",
     "Quick Manual/Backend/note/403 에러 발생 시 Trouble Shooting.md",
     "Quick Manual/Backend/note",
     "Quick Manual/Backend/Selector 옵션 선택 시 파란색 고정인 것을 수정하고 싶을 때.md",
     "기농이네 prj/Backend/Backend.md",
-    "기농이네 prj/Backend/note/reg페이지 post요청 시 403 에러.md",
     "기농이네 prj/Newlecture 기농이네 Prj Issue.md",
-    "README.md",
     "Quick Manual.md",
     "무제 파일.canvas",
     "Quick.md",
-    "기농이네 prj/Frontend/note/Selector 옵션 hover 시 색이 파란색으로 고정.md",
-    "기농이네 prj/Frontend/note/JavaScript 정규표현식 사용.md",
-    "기농이네 prj/Frontend/note/로그인 시 비밀번호 표시.md",
     "기농이네 prj/Backend/Frontend.md",
-    "기농이네 prj/Backend/note/Mapper 파일 맵핑 에러.md",
     "기농이네 prj/Backend/note/Auto Increment로 생성된 id 재사용.md",
     "기농이네 prj/screenshot/스크린샷 2024-03-30 183515.png",
     "기농이네 prj/screenshot/image.png",

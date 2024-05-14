@@ -112,7 +112,8 @@ document.addEventListener("DOMContentLoaded", function() {
 }
 ```
 
-![[스크린샷 2024-03-31 102646.png]]
+![](https://i.imgur.com/7OZ6NiU.png)
 
-해당 구문 사용으로 hover시 색상을 바꾸게 되었음.또한 선택한 data-value 값이 post요청 시 controller로 name : data-value 값으로 잘 넘어가는것을 확인 하였다.
-근데 hover 색상 하나 꾸며주자고 이렇게 긴 코드가 필요하다니... 현타가 왔다...빨리 option:hover가 크롬에도 적용되면 좋겠다..
+
+해당 구문 사용으로 hover시 색상을 바꾸게 되었음.또한 선택한 data-value 값이 post요청 시 controller로 name : data-value 값으로 잘 넘어가는 것을 확인 하였다.
+근데 hover 색상 하나 꾸며주자고 이렇게 긴 코드가 필요하다니... ...빨리 option:hover가 크롬에도 적용되면 좋겠다..
