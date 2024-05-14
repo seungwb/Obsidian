@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick Manual/etc/note/git merge 관련 문제.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quick Manual/etc/note/git merge 관련 문제.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quick Manual/etc/note/git merge 관련 문제.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quick Manual/etc/note/git merge 관련 문제.md"
+                "file": "README.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "5cfec6b5e807caf1",
   "lastOpenFiles": [
-    "Quick Manual/etc/etc.md",
+    "무제 파일.canvas",
     "Quick Manual/etc/note/git merge 관련 문제.md",
+    "Quick Manual/etc/etc.md",
     "기농이네 prj/Backend/note/Auto Increment로 생성된 id 재사용.md",
     "기농이네 prj/Backend/note/Mapper 파일 맵핑 에러.md",
     "기농이네 prj/Backend/note/reg페이지 post요청 시 403 에러.md",
@@ -182,7 +183,6 @@
     "기농이네 prj/Backend/Backend.md",
     "기농이네 prj/Newlecture 기농이네 Prj Issue.md",
     "Quick Manual.md",
-    "무제 파일.canvas",
     "Quick.md",
     "기농이네 prj/Backend/Frontend.md",
     "기농이네 prj/screenshot/스크린샷 2024-03-30 183515.png",
@@ -193,7 +193,6 @@
     "기농이네 prj/screenshot/스크린샷 2024-03-31 102646.png",
     "기농이네 prj/Backend/note/[Auto Increment로 생성된 id 재사용](Auto Increment로 생성된 id 재사용).md",
     "기농이네 prj/screenshot/스크린샷 2024-03-31 225145.png",
-    "`Quick.md",
     "`",
     "무제 파일 1.canvas",
     "기농이네 prj",
