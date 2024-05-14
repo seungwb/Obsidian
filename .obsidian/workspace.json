@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기농이네 prj/Newlecture 기농이네 Prj Issue.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "기농이네 prj/Newlecture 기농이네 Prj Issue.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "기농이네 prj/Newlecture 기농이네 Prj Issue.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "기농이네 prj/Newlecture 기농이네 Prj Issue.md"
+                "file": "README.md"
               }
             }
           },
@@ -157,16 +157,17 @@
   },
   "active": "3ca1c2fae98d68ee",
   "lastOpenFiles": [
+    "Quick Manual.md",
+    "기농이네 prj/Newlecture 기농이네 Prj Issue.md",
     "README.md",
+    "기농이네 prj/Backend/note/Auto Increment로 생성된 id 재사용.md",
+    "기농이네 prj/Backend/note/Mapper 파일 맵핑 에러.md",
+    "기농이네 prj/Frontend/Frontend.md",
     "기농이네 prj/Backend/note/reg페이지 post요청 시 403 에러.md",
     "기농이네 prj/Backend/Backend.md",
-    "기농이네 prj/Newlecture 기농이네 Prj Issue.md",
-    "기농이네 prj/Backend/note/Auto Increment로 생성된 id 재사용.md",
     "기농이네 prj/Backend/note/[Auto Increment로 생성된 id 재사용](Auto Increment로 생성된 id 재사용).md",
-    "기농이네 prj/Backend/note/Mapper 파일 맵핑 에러.md",
     "Quick.md",
     "기농이네 prj/screenshot/스크린샷 2024-03-31 225145.png",
-    "Quick Manual.md",
     "Quick Manual/Quick Manual.md",
     "`Quick.md",
     "'Quick.md",
@@ -186,7 +187,6 @@
     "기농이네 prj/Frontend/note/Selector 옵션 hover 시 색이 파란색으로 고정.md",
     "기농이네 prj/Frontend/note/로그인 시 비밀번호 표시.md",
     "기농이네 prj/Frontend/note/JavaScript 정규표현식 사용.md",
-    "기농이네 prj/Frontend/Frontend.md",
     "Mapper 파일 매핑 에러.md",
     "기농이네 prj/Frontend/note",
     "기농이네 prj/Backend/note",
