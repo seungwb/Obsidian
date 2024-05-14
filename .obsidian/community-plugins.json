@@ -3,5 +3,6 @@
   "obsidian-table-generator",
   "table-editor-obsidian",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-auto-link-title"
+  "obsidian-auto-link-title",
+  "obsidian-file-path-to-uri"
 ]

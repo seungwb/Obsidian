@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,6 +158,7 @@
   "active": "3ca1c2fae98d68ee",
   "lastOpenFiles": [
     "Quick Manual.md",
+    "Quick Manual/Backend/403 에러 발생 시 Trouble Shooting.md",
     "README.md",
     "무제 파일 1.canvas",
     "2024-05-14.md",
@@ -191,7 +191,6 @@
     "기농이네_prj/screenshot/스크린샷 2024-04-02 091045.png",
     "기농이네_prj/screenshot/스크린샷 2024-04-02 091157.png",
     "Quick Manual/Frontend/Selector 옵션 선택 시 파란색 고정인 것을 수정하고 싶을 때.md",
-    "Quick Manual/Backend/403 에러 발생 시 Trouble Shooting.md",
     "Quick Manual/Frontend",
     "Quick Manual/Backend",
     "기농이네_prj/Frontend",
