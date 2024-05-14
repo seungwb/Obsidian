@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "64d73fb7a39144d1",
+        "id": "a21fca9a81516d2a",
         "type": "tabs",
         "children": [
           {
-            "id": "5c786162e5dbb0c8",
+            "id": "3ca1c2fae98d68ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -128,9 +128,17 @@
                 "file": "README.md"
               }
             }
+          },
+          {
+            "id": "61f30a586d614ea8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -148,10 +156,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5c786162e5dbb0c8",
+  "active": "3ca1c2fae98d68ee",
   "lastOpenFiles": [
     "Quick Manual.md",
     "README.md",
+    "무제 파일 1.canvas",
+    "2024-05-14.md",
+    "Newlecture.md",
+    "2024-05-13.md",
+    "무제 파일.canvas",
     "().md",
     "기농이네_prj/Newlecture_기농이네_Prj_Issue.md",
     "기농이네_prj/screenshot/스크린샷 2024-03-30 183515.png",
@@ -159,7 +172,6 @@
     "기농이네_prj",
     "기농이네.md",
     "Issue Note.md",
-    "Newlecture.md",
     "기농이네_prj/Frontend/note/Selector 옵션 hover 시 색이 파란색으로 고정.md",
     "기농이네_prj/Frontend/note/로그인 시 비밀번호 표시.md",
     "기농이네_prj/Frontend/note/JavaScript 정규표현식 사용.md",
@@ -167,9 +179,6 @@
     "기농이네_prj/Backend/note/Auto Increment로 생성된 id 재사용.md",
     "기농이네_prj/Backend/note/reg페이지 post요청 시 403 에러.md",
     "기농이네_prj/Backend/note/Mapper 파일 맵핑 에러.md",
-    "무제 파일 1.canvas",
-    "2024-05-13.md",
-    "무제 파일.canvas",
     "Mapper 파일 매핑 에러.md",
     "기농이네_prj/Frontend/note",
     "기농이네_prj/Backend/note",
