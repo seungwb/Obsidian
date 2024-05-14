@@ -14,7 +14,7 @@ else
 
 @를 뺀 이메일 주소를 넣었을 시 생각대로 alert가 떠줬지만 @을 입력한 옳바른 주소를 입력했음에도 alert가 떠서 gpt를 통해 물어보니 아래와 같은 코드를 추천해 주었다.
 
-```
+```js
 let email = emailSend.querySelector('input[name="mail"]').value; 
 // 이메일 주소 유효성 검증 
 if (!/^[a-zA-Z0-9]+@[a-zA-Z0-9]+\.[a-zA-Z]+$/.test(email)) { 
@@ -26,7 +26,7 @@ if (!/^[a-zA-Z0-9]+@[a-zA-Z0-9]+\.[a-zA-Z]+$/.test(email)) {
 
 
 ![[스크린샷 2024-04-28 191841.png]]```
-```
+```js
 const str = "hello world!";
 const result = /^hello/.test(str);
 

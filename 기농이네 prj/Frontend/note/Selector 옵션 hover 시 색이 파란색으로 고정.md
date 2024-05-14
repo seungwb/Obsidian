@@ -1,7 +1,7 @@
 
 옵션을 선택하여 선택한 데이터를 post요청에 담아 controller로 보내기 위해 selector 구문을 사용하기로 했지만 옵션 hover 시 파란색으로 고정되어 있음.
 
-```
+```html
 <div class="n-select"> 
 	<select name="pets" id="pet-select"> 
 		<option value="">Please choose an option</option> 
@@ -12,7 +12,7 @@
 </div>
 ```
 일반적인 selector로 손쉽게 사용 가능하지만 hover시 파란색인 것을 수정 할 수 없었음. 
-```
+```css
 //css 
 option:hover {
   background-color: red;
@@ -22,7 +22,7 @@ option:hover {
 해당 구문을 css에 사용 시 간단하게 색 지정이 가능하나 현재는 파이썬에서만 작동하고 크롬에서 작동하지 않아 여러 방법을 찾아보게 됨.
 
 
-```
+```html
 //html
 <div class="custom-dropdown">  
     <div class="selected-option deco deco-pos:right icon:RT deco-size:1 deco-color:main-6" id="selectedOptionCategory">카테고리 선택</div>  
@@ -34,7 +34,7 @@ option:hover {
 </div>
 <input type="hidden" id="selectedCategory" name="categoryId" value="1">
 ```
-```
+```js
 //JavaScript
 document.addEventListener("DOMContentLoaded", function() {  
     var selectedOption = document.getElementById('selectedOptionCategory');  
@@ -66,7 +66,7 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 ```
 
-```
+```css
 //css
 .custom-dropdown {  
     position: relative;  

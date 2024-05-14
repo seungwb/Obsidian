@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기농이네 prj/Frontend/note/JavaScript 정규표현식 사용.md",
+                "file": "기농이네 prj/Frontend/note/Selector 옵션 hover 시 색이 파란색으로 고정.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "기농이네 prj/Frontend/note/JavaScript 정규표현식 사용.md",
+                "file": "기농이네 prj/Frontend/note/Selector 옵션 hover 시 색이 파란색으로 고정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "기농이네 prj/Frontend/note/JavaScript 정규표현식 사용.md",
+                "file": "기농이네 prj/Frontend/note/Selector 옵션 hover 시 색이 파란색으로 고정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "기농이네 prj/Frontend/note/JavaScript 정규표현식 사용.md"
+                "file": "기농이네 prj/Frontend/note/Selector 옵션 hover 시 색이 파란색으로 고정.md"
               }
             }
           }
@@ -150,6 +150,8 @@
   },
   "active": "5c786162e5dbb0c8",
   "lastOpenFiles": [
+    "기농이네 prj/Frontend/note/로그인 시 비밀번호 표시.md",
+    "기농이네 prj/Frontend/note/JavaScript 정규표현식 사용.md",
     "기농이네 prj/Frontend/Frontend.md",
     "기농이네 prj/Backend/note/Auto Increment로 생성된 id 재사용.md",
     "기농이네 prj/Backend/note/reg페이지 post요청 시 403 에러.md",
@@ -164,11 +166,9 @@
     "2024-05-13.md",
     "무제 파일.canvas",
     "Mapper 파일 매핑 에러.md",
-    "기농이네 prj/Frontend/note/로그인 시 비밀번호 표시.md",
     "기농이네 prj/Frontend/note/Selector 옵션 hover 시 색이 파란색으로 고정.md",
     "기농이네 prj/Frontend/note",
     "기농이네 prj/Backend/note",
-    "기농이네 prj/Frontend/note/JavaScript 정규표현식 사용.md",
     "Quick Manual/etc/자주 쓰이는 정규 표현식.md",
     "기농이네 prj/screenshot/스크린샷 2024-04-28 191841.png",
     "Quick Manual/Backend/Auto Increment로 생성된 컬럼 값 넘겨받기.md",
