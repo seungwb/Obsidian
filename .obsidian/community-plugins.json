@@ -2,5 +2,6 @@
   "obsidian-git",
   "obsidian-table-generator",
   "table-editor-obsidian",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-auto-link-title"
 ]
