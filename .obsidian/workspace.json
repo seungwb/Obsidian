@@ -11,9 +11,11 @@
             "id": "3ca1c2fae98d68ee",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "기농이네 prj/screenshot/스크린샷 2024-03-30 183515.png"
+                "file": "기농이네 prj/Backend/note/Mapper 파일 맵핑 에러.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "기농이네 prj/screenshot/스크린샷 2024-03-30 183515.png",
+                "file": "기농이네 prj/Backend/note/Mapper 파일 맵핑 에러.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "기농이네 prj/screenshot/스크린샷 2024-03-30 183515.png",
+                "file": "기농이네 prj/Backend/note/Mapper 파일 맵핑 에러.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "기농이네 prj/screenshot/스크린샷 2024-03-30 183515.png"
+                "file": "기농이네 prj/Backend/note/Mapper 파일 맵핑 에러.md"
               }
             }
           },
@@ -155,16 +157,16 @@
   },
   "active": "3ca1c2fae98d68ee",
   "lastOpenFiles": [
+    "기농이네 prj/Backend/Backend.md",
+    "기농이네 prj/Backend/note/reg페이지 post요청 시 403 에러.md",
     "기농이네 prj/Backend/note/Auto Increment로 생성된 id 재사용.md",
+    "기농이네 prj/Backend/note/Mapper 파일 맵핑 에러.md",
+    "기농이네 prj/screenshot/스크린샷 2024-03-30 183515.png",
     "기농이네 prj/screenshot/image.png",
     "기농이네 prj/screenshot/절대 퇴실해 - 복사본 - 복사본 1.heic",
     "기농이네 prj/screenshot/절대 퇴실해 - 복사본 - 복사본.heic",
-    "기농이네 prj/screenshot/스크린샷 2024-03-30 183515.png",
-    "기농이네 prj/Backend/note/reg페이지 post요청 시 403 에러.md",
-    "기농이네 prj/Backend/note/Mapper 파일 맵핑 에러.md",
     "기농이네 prj/screenshot/스크린샷 2024-03-31 193618.png",
     "기농이네 prj/screenshot/스크린샷 2024-03-31 102646.png",
-    "기농이네 prj/Backend/Backend.md",
     "README.md",
     "기농이네 prj/Newlecture 기농이네 Prj Issue.md",
     "Quick Manual.md",

@@ -1,11 +1,9 @@
 
 
-
-![스크린샷 2024-03-30 183515.png](https://github.com/seungwb/Obsidian/blob/main/%EA%B8%B0%EB%86%8D%EC%9D%B4%EB%84%A4%20prj/screenshot/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-03-30%20183515.png)
-![[스크린샷 2024-03-30 183515.png]]
+![](https://i.imgur.com/dOsB4xw.png)
 post요청으로 값이 전부 올바르게 들어갔음에도 403 에러가 발생했음.
-[]()
-![[스크린샷 2024-03-31 193618.png]]
+![](https://i.imgur.com/XVJmtQS.png)
+
 
 Chat GPT 에게 물어봐서 차례대로 문제해결 해보기로 했다.
 ```java
@@ -33,7 +31,8 @@ public class WebSecurityConfig {
 ```
 
 개발중이라 권한은 모두 풀어놓은 상태라 문제가 없어보인다. 1,2 번 제외하고 3번으로 넘어가자.
-![[스크린샷 2024-03-31 194659.png]]
+![](https://i.imgur.com/sTTbUBz.png)
+
 아직 csrf는 안 배웠고 따로 설정을 하지 않아서 post요청에 csrf토큰이 포함되지 않아 에러가 난거 같아 Rland 실습 중에 임의로 세팅 해놓은 코드를 확인해보았다.
 ```java
 http  
