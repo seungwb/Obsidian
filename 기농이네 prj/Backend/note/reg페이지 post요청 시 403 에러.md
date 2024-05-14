@@ -1,7 +1,7 @@
 
 
 
-![[스크린샷 2024-03-30 183515.png]]
+![스크린샷 2024-03-30 183515.png](https://github.com/seungwb/Obsidian/blob/main/%EA%B8%B0%EB%86%8D%EC%9D%B4%EB%84%A4%20prj/screenshot/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-03-30%20183515.png)
 
 post요청으로 값이 전부 올바르게 들어갔음에도 403 에러가 발생했음.
 ![[스크린샷 2024-03-31 193618.png]]
