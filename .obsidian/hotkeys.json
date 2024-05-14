@@ -7,5 +7,14 @@
       ],
       "key": "C"
     }
+  ],
+  "obsidian-file-link:add-file-link": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
   ]
 }
