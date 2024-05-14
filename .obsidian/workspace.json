@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "65723bcc34730901",
+    "type": "split",
+    "children": [
+      {
+        "id": "754e1e0fb661adc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a77d8ba023bd07a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "기농이네 prj/Newlecture 기농이네 Prj Issue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81c8c080db8d355f",
+    "type": "split",
+    "children": [
+      {
+        "id": "68b96b6e5366cc9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51dd4dea87fd8c6e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e77fd3a1c20c3614",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#정규식",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1756d794f4df717f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "db2627962478ce99",
+    "type": "split",
+    "children": [
+      {
+        "id": "189f3583e1a57941",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a840dd76894315d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "기농이네 prj/Newlecture 기농이네 Prj Issue.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ddfb4ca2fab80b07",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "기농이네 prj/Newlecture 기농이네 Prj Issue.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "82776603f6ce9689",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1cdb89a21c0b6ed9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "기농이네 prj/Newlecture 기농이네 Prj Issue.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "1cdb89a21c0b6ed9",
+  "lastOpenFiles": [
+    "기농이네 prj/Backend/Backend.md",
+    "기농이네 prj/Frontend/Frontend.md",
+    "기농이네 prj/Newlecture 기농이네 Prj Issue.md",
+    "2024-05-13.md",
+    "무제 파일.canvas",
+    "Issue Note.md",
+    "Quick Manual.md",
+    "Mapper 파일 매핑 에러.md",
+    "기농이네 prj/Frontend/note/로그인 시 비밀번호 표시.md",
+    "기농이네 prj/Backend/note/Auto Increment로 생성된 id 재사용.md",
+    "기농이네 prj/Backend/note/Mapper 파일 맵핑 에러.md",
+    "기농이네 prj/Backend/note/reg페이지 post요청 시 403 에러.md",
+    "기농이네 prj/Frontend/note/Selector 옵션 hover 시 색이 파란색으로 고정.md",
+    "기농이네 prj/Frontend/note",
+    "기농이네 prj/Backend/note",
+    "기농이네 prj/Frontend/note/JavaScript 정규표현식 사용.md",
+    "Quick Manual/etc/자주 쓰이는 정규 표현식.md",
+    "기농이네 prj/screenshot/스크린샷 2024-04-28 191841.png",
+    "Quick Manual/Backend/Auto Increment로 생성된 컬럼 값 넘겨받기.md",
+    "Quick Manual/etc/무제 폴더",
+    "Quick Manual/etc",
+    "Quick Manual/Backend/MySql 난수만들기.md",
+    "기농이네 prj/screenshot/스크린샷 2024-04-02 091045.png",
+    "기농이네 prj/screenshot/스크린샷 2024-04-02 091157.png",
+    "Quick Manual/Frontend/Selector 옵션 선택 시 파란색 고정인 것을 수정하고 싶을 때.md",
+    "Quick Manual/Backend/403 에러 발생 시 Trouble Shooting.md",
+    "Quick Manual/Frontend",
+    "Quick Manual/Backend",
+    "기농이네 prj/Frontend",
+    "기농이네 prj/Backend",
+    "Newlecture 기농이네 Prj Issue.md",
+    "Quick Manual",
+    "기농이네 prj/screenshot/스크린샷 2024-03-31 225602.png",
+    "기농이네 prj/screenshot/스크린샷 2024-03-31 225543.png",
+    "기농이네 prj/screenshot/스크린샷 2024-03-31 225145.png",
+    "기농이네 prj/screenshot/스크린샷 2024-03-31 194659.png",
+    "기농이네 prj/screenshot",
+    "기농이네 prj/screenshot/스크린샷 2024-03-31 193618.png",
+    "기농이네 prj/screenshot/스크린샷 2024-03-30 183515.png",
+    "기농이네 prj/screenshot/스크린샷 2024-03-31 102646.png"
+  ]
+}
