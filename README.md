@@ -2,6 +2,3 @@
 
 ## [Quick Manual](<Quick Manual/Quick Manual.md>)
 
-
-
-asd
