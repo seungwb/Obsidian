@@ -6,7 +6,7 @@ admin/product/reg 페이지 작성 중 post요청으로 페이지에 값을 받�
 
 ![[스크린샷 2024-03-31 225602.png]]
 
-```
+```java
 <insert id="save" parameterType="Product">  
     INSERT INTO PRODUCT(  
        name, price, quantity, weight, thumbnail_name, thumbnail_path,   
@@ -21,7 +21,7 @@ admin/product/reg 페이지 작성 중 post요청으로 페이지에 값을 받�
 
 입력 할때 Auto increment 인 상품의 id를 기입하지 않았고 그렇기 때문에 insert 할때 id값이 들어가 있지도 않음. 하지만 상품등록 시 입력한 재고, 수확일자를 재고 테이블에 등록하기 위해서는 상품의 id가 FK로 필요하기 때문에 다시 받아와야 한다.
 
-```
+```java
 //mapper
 <insert id="save" parameterType="Product" 
 useGeneratedKeys="true" keyProperty="id">  //추가한 부분, id값을 Serviceimp로 보내줌  
@@ -39,7 +39,7 @@ useGeneratedKeys="true" keyProperty="id">  //추가한 부분, id값을 Servicei
 위의 방법으로 Service에 id값을 넘겨 받아 재고 등록까지 되게 하였음.
 
 다른 예제)
-```
+```java
 //Mapper                                <--------------------------------------->
 <insert id="save" parameterType="Order" useGeneratedKeys="true" keyProperty="id">
     insert into `ORDER`(`DATE`, `TYPE`, PRICE, QUANTITY, DETAIL_ID, MEMBER_ID, PRODUCT_ID, LOCATION_ID)  
@@ -59,7 +59,7 @@ useGeneratedKeys="true" keyProperty="id">  //추가한 부분, id값을 Servicei
 //keyProperty="id": 이 설정은 자동으로 생성된 키 값을 저장할 Java 객체의 속성을 지정
 ```
 
-```
+```java
 //ServiceImp
 
 @Override  
@@ -72,7 +72,7 @@ public long addOrder(Order order) {
 }
 ```
 
-```
+```java
 //Controller
 
 long orderId = service.addOrder(order); //auto increment order id 값

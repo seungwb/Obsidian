@@ -1,6 +1,6 @@
 
 이메일 인증 구현 중 옳바른 이메일 형식이 아닐 시 alert로 유효한 이메일이 아니라는 알람을 띄우기 위해 작업하기 위해 정규표현식을 사용하여 구현하려 아래와 같은 코드를 짬.
-```
+```js
 let email = emailSend.querySelector('input[name="mail"]').value;  
 //이메일 주소 유효성 검증  
 if(email!== /^[a-zA-Z0-9]+@[a-zA-Z0-9]+$/){  
