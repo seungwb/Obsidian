@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick Manual.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quick Manual.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quick Manual.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quick Manual.md"
+                "file": "README.md"
               }
             }
           },
@@ -155,13 +155,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "51dd4dea87fd8c6e",
+  "active": "3ca1c2fae98d68ee",
   "lastOpenFiles": [
+    "'Quick.md",
+    "README.md",
     "무제 파일.canvas",
+    "Issue Note.md",
+    "Quick Manual/Quick Manual.md",
     "무제 파일 1.canvas",
     "Quick Manual/Backend/403 에러 발생 시 Trouble Shooting.md",
-    "Quick Manual.md",
-    "README.md",
     "2024-05-14.md",
     "Newlecture.md",
     "2024-05-13.md",
@@ -171,7 +173,6 @@
     "기농이네_prj/Backend/Backend.md",
     "기농이네_prj",
     "기농이네.md",
-    "Issue Note.md",
     "기농이네_prj/Frontend/note/Selector 옵션 hover 시 색이 파란색으로 고정.md",
     "기농이네_prj/Frontend/note/로그인 시 비밀번호 표시.md",
     "기농이네_prj/Frontend/note/JavaScript 정규표현식 사용.md",
