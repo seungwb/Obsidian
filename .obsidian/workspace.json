@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기농이네 prj/Backend/note/Auto Increment로 생성된 id 재사용.md",
+                "file": "Quick Manual/etc/note/git merge 관련 문제.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "기농이네 prj/Backend/note/Auto Increment로 생성된 id 재사용.md",
+                "file": "Quick Manual/etc/note/git merge 관련 문제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "기농이네 prj/Backend/note/Auto Increment로 생성된 id 재사용.md",
+                "file": "Quick Manual/etc/note/git merge 관련 문제.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "기농이네 prj/Backend/note/Auto Increment로 생성된 id 재사용.md"
+                "file": "Quick Manual/etc/note/git merge 관련 문제.md"
               }
             }
           },
@@ -157,13 +157,15 @@
   },
   "active": "5cfec6b5e807caf1",
   "lastOpenFiles": [
+    "Quick Manual/etc/etc.md",
+    "Quick Manual/etc/note/git merge 관련 문제.md",
+    "기농이네 prj/Backend/note/Auto Increment로 생성된 id 재사용.md",
     "기농이네 prj/Backend/note/Mapper 파일 맵핑 에러.md",
     "기농이네 prj/Backend/note/reg페이지 post요청 시 403 에러.md",
     "기농이네 prj/Frontend/note/로그인 시 비밀번호 표시.md",
     "기농이네 prj/Frontend/note/JavaScript 정규표현식 사용.md",
     "기농이네 prj/Frontend/note/Selector 옵션 hover 시 색이 파란색으로 고정.md",
     "Quick Manual/Frontend/Frontend.md",
-    "Quick Manual/etc/etc.md",
     "Quick Manual/Backend/Backend.md",
     "Quick Manual/Quick Manual.md",
     "README.md",
@@ -183,7 +185,6 @@
     "무제 파일.canvas",
     "Quick.md",
     "기농이네 prj/Backend/Frontend.md",
-    "기농이네 prj/Backend/note/Auto Increment로 생성된 id 재사용.md",
     "기농이네 prj/screenshot/스크린샷 2024-03-30 183515.png",
     "기농이네 prj/screenshot/image.png",
     "기농이네 prj/screenshot/절대 퇴실해 - 복사본 - 복사본 1.heic",
@@ -193,7 +194,6 @@
     "기농이네 prj/Backend/note/[Auto Increment로 생성된 id 재사용](Auto Increment로 생성된 id 재사용).md",
     "기농이네 prj/screenshot/스크린샷 2024-03-31 225145.png",
     "`Quick.md",
-    "'Quick.md",
     "`",
     "무제 파일 1.canvas",
     "기농이네 prj",
