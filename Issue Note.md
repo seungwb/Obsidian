@@ -1,2 +1,2 @@
 
-## [[Newlecture 기농이네 Prj Issue]]
+## [[Newlecture_기농이네_Prj_Issue]]

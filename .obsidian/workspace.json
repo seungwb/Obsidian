@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "기농이네_prj/Backend/Backend.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "기농이네_prj/Backend/Backend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "기농이네_prj/Backend/Backend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "기농이네_prj/Backend/Backend.md"
               }
             }
           }
@@ -150,49 +150,50 @@
   },
   "active": "5c786162e5dbb0c8",
   "lastOpenFiles": [
-    "Newlecture.md",
+    "기농이네_prj/Newlecture_기농이네_Prj_Issue.md",
     "README.md",
-    "기농이네 prj/Frontend/note/Selector 옵션 hover 시 색이 파란색으로 고정.md",
-    "기농이네 prj/Frontend/note/로그인 시 비밀번호 표시.md",
-    "기농이네 prj/Frontend/note/JavaScript 정규표현식 사용.md",
-    "기농이네 prj/Frontend/Frontend.md",
-    "기농이네 prj/Backend/note/Auto Increment로 생성된 id 재사용.md",
-    "기농이네 prj/Backend/note/reg페이지 post요청 시 403 에러.md",
-    "기농이네 prj/Backend/note/Mapper 파일 맵핑 에러.md",
-    "기농이네 prj/Backend/Backend.md",
-    "기농이네 prj/Newlecture 기농이네 Prj Issue.md",
-    "().md",
     "Quick Manual.md",
+    "기농이네_prj",
+    "기농이네.md",
     "Issue Note.md",
+    "Newlecture.md",
+    "기농이네_prj/Frontend/note/Selector 옵션 hover 시 색이 파란색으로 고정.md",
+    "기농이네_prj/Frontend/note/로그인 시 비밀번호 표시.md",
+    "기농이네_prj/Frontend/note/JavaScript 정규표현식 사용.md",
+    "기농이네_prj/Frontend/Frontend.md",
+    "기농이네_prj/Backend/note/Auto Increment로 생성된 id 재사용.md",
+    "기농이네_prj/Backend/note/reg페이지 post요청 시 403 에러.md",
+    "기농이네_prj/Backend/note/Mapper 파일 맵핑 에러.md",
+    "기농이네_prj/Backend/Backend.md",
+    "().md",
     "무제 파일 1.canvas",
     "2024-05-13.md",
     "무제 파일.canvas",
     "Mapper 파일 매핑 에러.md",
-    "기농이네 prj/Frontend/note",
-    "기농이네 prj/Backend/note",
+    "기농이네_prj/Frontend/note",
+    "기농이네_prj/Backend/note",
     "Quick Manual/etc/자주 쓰이는 정규 표현식.md",
-    "기농이네 prj/screenshot/스크린샷 2024-04-28 191841.png",
+    "기농이네_prj/screenshot/스크린샷 2024-04-28 191841.png",
     "Quick Manual/Backend/Auto Increment로 생성된 컬럼 값 넘겨받기.md",
     "Quick Manual/etc/무제 폴더",
     "Quick Manual/etc",
     "Quick Manual/Backend/MySql 난수만들기.md",
-    "기농이네 prj/screenshot/스크린샷 2024-04-02 091045.png",
-    "기농이네 prj/screenshot/스크린샷 2024-04-02 091157.png",
+    "기농이네_prj/screenshot/스크린샷 2024-04-02 091045.png",
+    "기농이네_prj/screenshot/스크린샷 2024-04-02 091157.png",
     "Quick Manual/Frontend/Selector 옵션 선택 시 파란색 고정인 것을 수정하고 싶을 때.md",
     "Quick Manual/Backend/403 에러 발생 시 Trouble Shooting.md",
     "Quick Manual/Frontend",
     "Quick Manual/Backend",
-    "기농이네 prj/Frontend",
-    "기농이네 prj/Backend",
+    "기농이네_prj/Frontend",
+    "기농이네_prj/Backend",
     "Newlecture 기농이네 Prj Issue.md",
     "Quick Manual",
-    "기농이네 prj/screenshot/스크린샷 2024-03-31 225602.png",
-    "기농이네 prj/screenshot/스크린샷 2024-03-31 225543.png",
-    "기농이네 prj/screenshot/스크린샷 2024-03-31 225145.png",
-    "기농이네 prj/screenshot/스크린샷 2024-03-31 194659.png",
-    "기농이네 prj/screenshot",
-    "기농이네 prj/screenshot/스크린샷 2024-03-31 193618.png",
-    "기농이네 prj/screenshot/스크린샷 2024-03-30 183515.png",
-    "기농이네 prj/screenshot/스크린샷 2024-03-31 102646.png"
+    "기농이네_prj/screenshot/스크린샷 2024-03-31 225602.png",
+    "기농이네_prj/screenshot/스크린샷 2024-03-31 225543.png",
+    "기농이네_prj/screenshot/스크린샷 2024-03-31 225145.png",
+    "기농이네_prj/screenshot/스크린샷 2024-03-31 194659.png",
+    "기농이네_prj/screenshot/스크린샷 2024-03-31 193618.png",
+    "기농이네_prj/screenshot/스크린샷 2024-03-30 183515.png",
+    "기농이네_prj/screenshot/스크린샷 2024-03-31 102646.png"
   ]
 }
