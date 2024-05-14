@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기농이네 prj/Frontend/note/Selector 옵션 hover 시 색이 파란색으로 고정.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "기농이네 prj/Frontend/note/Selector 옵션 hover 시 색이 파란색으로 고정.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "기농이네 prj/Frontend/note/Selector 옵션 hover 시 색이 파란색으로 고정.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "기농이네 prj/Frontend/note/Selector 옵션 hover 시 색이 파란색으로 고정.md"
+                "file": "README.md"
               }
             }
           }
@@ -150,6 +150,9 @@
   },
   "active": "5c786162e5dbb0c8",
   "lastOpenFiles": [
+    "Newlecture.md",
+    "README.md",
+    "기농이네 prj/Frontend/note/Selector 옵션 hover 시 색이 파란색으로 고정.md",
     "기농이네 prj/Frontend/note/로그인 시 비밀번호 표시.md",
     "기농이네 prj/Frontend/note/JavaScript 정규표현식 사용.md",
     "기농이네 prj/Frontend/Frontend.md",
@@ -158,7 +161,6 @@
     "기농이네 prj/Backend/note/Mapper 파일 맵핑 에러.md",
     "기농이네 prj/Backend/Backend.md",
     "기농이네 prj/Newlecture 기농이네 Prj Issue.md",
-    "README.md",
     "().md",
     "Quick Manual.md",
     "Issue Note.md",
@@ -166,7 +168,6 @@
     "2024-05-13.md",
     "무제 파일.canvas",
     "Mapper 파일 매핑 에러.md",
-    "기농이네 prj/Frontend/note/Selector 옵션 hover 시 색이 파란색으로 고정.md",
     "기농이네 prj/Frontend/note",
     "기농이네 prj/Backend/note",
     "Quick Manual/etc/자주 쓰이는 정규 표현식.md",
