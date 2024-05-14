@@ -1,4 +1,4 @@
-```
+```html
 //html
 <div class="custom-dropdown">  
     <div class="selected-option deco deco-pos:right icon:RT deco-size:1 deco-color:main-6" id="selectedOptionCategory">카테고리 선택</div>  //id 설정
@@ -11,7 +11,7 @@
 <input type="hidden" id="selectedCategory" name="categoryId" value="1"> 
 					//id값설정 밑 post로 넘겨줄 원하는 변수명을 name에 설정
 ```
-```
+```js
 //JavaScript
 document.addEventListener("DOMContentLoaded", function() {  
     var selectedOption = document.getElementById('selectedOptionCategory');  
@@ -42,7 +42,7 @@ document.addEventListener("DOMContentLoaded", function() {
     });  
 });
 ```
-```
+```css
 //css
 .custom-dropdown {  
     position: relative;  
