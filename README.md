@@ -1,4 +1,4 @@
-## [Newlecture 기농이네 Prj Issue](Newlecture%20기농이네%20Prj%20Issue.md)
+## [Newlecture 기농이네 Prj Issue](</기농이네 prj/Newlecture 기농이네 Prj Issue>)
 
 ## [Quick Manual](<Quick Manual/Quick Manual.md>)
 
