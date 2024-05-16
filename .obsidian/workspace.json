@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Quick Manual/Quick Manual.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Quick Manual/Quick Manual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Quick Manual/Quick Manual.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Quick Manual/Quick Manual.md"
               }
             }
           },
@@ -157,7 +157,9 @@
   },
   "active": "5cfec6b5e807caf1",
   "lastOpenFiles": [
+    "기농이네 ER Diagram.drawio.png",
     "무제 파일.canvas",
+    "README.md",
     "Quick Manual/etc/note/git merge 관련 문제.md",
     "Quick Manual/etc/etc.md",
     "기농이네 prj/Backend/note/Auto Increment로 생성된 id 재사용.md",
@@ -169,7 +171,6 @@
     "Quick Manual/Frontend/Frontend.md",
     "Quick Manual/Backend/Backend.md",
     "Quick Manual/Quick Manual.md",
-    "README.md",
     "Quick Manual/etc/note/자주 쓰이는 정규 표현식.md",
     "기농이네 prj/Frontend/Frontend.md",
     "Quick Manual/etc/note",
