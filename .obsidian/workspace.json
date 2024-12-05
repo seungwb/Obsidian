@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "자바/절차 지향 프로그래밍, 객체 지향 프로그래밍.md",
+                "file": "자바/생성자.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "절차 지향 프로그래밍, 객체 지향 프로그래밍"
+              "title": "생성자"
             }
           }
         ]
@@ -176,9 +176,10 @@
   },
   "active": "5cfec6b5e807caf1",
   "lastOpenFiles": [
-    "자바/2. 기본형, 참조형.md",
-    "자바/절차 지향 프로그래밍, 객체 지향 프로그래밍.md",
+    "자바/3. 절차 지향 프로그래밍, 객체 지향 프로그래밍.md",
+    "자바/생성자.md",
     "자바/1. 클래스, 객체, 인스턴스.md",
+    "자바/2. 기본형, 참조형.md",
     "기농이네 prj/Newlecture 기농이네 Prj Issue.md",
     "개념 정리.md",
     "Quick Manual/Quick Manual.md",
@@ -207,7 +208,6 @@
     "Quick Manual/Backend/note",
     "Quick Manual/Backend/Selector 옵션 선택 시 파란색 고정인 것을 수정하고 싶을 때.md",
     "기농이네 prj/Backend/Backend.md",
-    "Quick Manual.md",
     "기농이네 prj/screenshot/스크린샷 2024-03-30 183515.png",
     "기농이네 prj/screenshot/image.png",
     "기농이네 prj/screenshot/절대 퇴실해 - 복사본 - 복사본 1.heic",
