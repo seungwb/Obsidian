@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5
+    "width": 293.5
   },
   "right": {
     "id": "db2627962478ce99",
@@ -174,7 +174,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "51dd4dea87fd8c6e",
+  "active": "5cfec6b5e807caf1",
   "lastOpenFiles": [
     "자바/5. 패키지, Import.md",
     "자바/4. 생성자.md",
