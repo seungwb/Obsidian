@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "자바/7. 자바 메모리 구조와 static.md",
+                "file": "자바/3. 절차 지향 프로그래밍, 객체 지향 프로그래밍.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. 자바 메모리 구조와 static"
+              "title": "3. 절차 지향 프로그래밍, 객체 지향 프로그래밍"
+            }
+          },
+          {
+            "id": "b34f6f42af26fe4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quick Manual/Quick Manual.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quick Manual"
             }
           }
         ]
@@ -174,14 +188,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2498747aa45df740",
+  "active": "51dd4dea87fd8c6e",
   "lastOpenFiles": [
+    "자바/6. 접근 제어자.md",
+    "Quick Manual/Quick Manual.md",
+    "자바/7. 자바 메모리 구조와 static.md",
     "기농이네 prj/Frontend/note/JavaScript 정규표현식 사용.md",
     "기농이네 prj/Frontend/Frontend.md",
     "기농이네 prj/Frontend/note/로그인 시 비밀번호 표시.md",
     "기농이네 prj/Newlecture 기농이네 Prj Issue.md",
-    "자바/7. 자바 메모리 구조와 static.md",
-    "자바/6. 접근 제어자.md",
     "자바/3. 절차 지향 프로그래밍, 객체 지향 프로그래밍.md",
     "자바/2. 기본형, 참조형.md",
     "자바/1. 클래스, 객체, 인스턴스.md",
@@ -190,7 +205,6 @@
     "개념 정리.md",
     "자바/Generic.md",
     "자바/picture",
-    "Quick Manual/Quick Manual.md",
     "기농이네 prj/Backend/note/reg페이지 post요청 시 403 에러.md",
     "무제 파일.canvas",
     "기농이네 ER Diagram.drawio.png",
