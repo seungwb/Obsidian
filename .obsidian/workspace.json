@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공부 정리/자바 기초/10. 다형성.md",
+                "file": "공부 정리/자바 기초/11. 다형성 활용.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. 다형성"
+              "title": "11. 다형성 활용"
             }
           }
         ]
@@ -177,6 +177,7 @@
   "active": "2498747aa45df740",
   "lastOpenFiles": [
     "공부 정리/자바 기초/개요.md",
+    "공부 정리/자바 기초/11. 다형성 활용.md",
     "공부 정리/자바 기초/10. 다형성.md",
     "공부 정리/자바 기초/9. 상속.md",
     "공부 정리/자바 기초/5. 패키지, Import.md",
@@ -207,7 +208,6 @@
     "무제 파일.md",
     "공부 정리/자바 기초",
     "프로젝트 별 Issue 정리/기농이네 prj/Backend/note/Auto Increment로 생성된 id 재사용.md",
-    "프로젝트 별 Issue 정리/기농이네 prj/Frontend/note/JavaScript 정규표현식 사용.md",
     "자바/picture",
     "공부 정리",
     "Quick Manual/etc/note",
