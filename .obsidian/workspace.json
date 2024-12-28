@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공부 정리/자바 기초/0. 자바 기초.md",
+                "file": "공부 정리/자바 기초/0. Intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. 자바 기초"
+              "title": "0. Intro"
+            }
+          },
+          {
+            "id": "da1c22f6ff008c00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quick Manual/Quick Manual.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quick Manual"
             }
           },
           {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,40 +217,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "870669c0631abcdb",
+  "active": "da1c22f6ff008c00",
   "lastOpenFiles": [
+    "README.md",
+    "프로젝트 별 Issue 정리/기농이네 prj/Frontend/Frontend.md",
+    "프로젝트 별 Issue 정리/기농이네 prj/Newlecture 기농이네 Prj Issue.md",
+    "프로젝트 별 Issue 정리/기농이네 prj/Backend/Backend.md",
+    "프로젝트 별 Issue 정리/프로젝트 별 Issue 정리.md",
     "공부 정리/공부 정리.md",
-    "공부 정리/자바 기초/0. 자바 기초.md",
+    "공부 정리/자바 기초/0. Intro.md",
+    "공부 정리/자바 기초/10. 다형성.md",
+    "공부 정리/자바 기초/9. 상속.md",
+    "공부 정리/자바 기초/8. final.md",
+    "공부 정리/자바 기초/7. 자바 메모리 구조와 static.md",
+    "공부 정리/자바 기초/6. 접근 제어자.md",
+    "공부 정리/자바 기초/5. 패키지, Import.md",
+    "공부 정리/자바 기초/4. 생성자.md",
+    "공부 정리/자바 기초/3. 절차 지향 프로그래밍, 객체 지향 프로그래밍.md",
+    "공부 정리/자바 기초/2. 기본형, 참조형.md",
+    "공부 정리/자바 기초/1. 클래스, 객체, 인스턴스.md",
     "자바 기초/자바 기초.md",
     "자바 기초",
     "자바.md",
-    "프로젝트 별 Issue 정리/기농이네 prj/Newlecture 기농이네 Prj Issue.md",
-    "프로젝트 별 Issue 정리/프로젝트 별 Issue 정리.md",
     "프로젝트 별 Issue 정리/기농이네 prj/Backend/note/reg페이지 post요청 시 403 에러.md",
-    "프로젝트 별 Issue 정리/기농이네 prj/Backend/Backend.md",
     "무제 파일.canvas",
     "기농이네 prj/Newlecture 기농이네 Prj Issue.md",
     "기농이네 prj",
     "공부 정리/Generic.md",
-    "README.md",
     "프로젝트 별 Issue 정리",
     "기농이네 ER Diagram.drawio.png",
     "무제 파일.md",
-    "공부 정리/자바 기초/10. 다형성.md",
-    "공부 정리/자바 기초/9. 상속.md",
-    "공부 정리/자바 기초/6. 접근 제어자.md",
-    "공부 정리/자바 기초/5. 패키지, Import.md",
-    "공부 정리/자바 기초/4. 생성자.md",
-    "공부 정리/자바 기초/8. final.md",
-    "공부 정리/자바 기초/7. 자바 메모리 구조와 static.md",
-    "공부 정리/자바 기초/3. 절차 지향 프로그래밍, 객체 지향 프로그래밍.md",
-    "공부 정리/자바 기초/1. 클래스, 객체, 인스턴스.md",
     "공부 정리/자바 기초",
     "Quick Manual/Quick Manual.md",
-    "공부 정리/자바 기초/2. 기본형, 참조형.md",
     "프로젝트 별 Issue 정리/기농이네 prj/Backend/note/Auto Increment로 생성된 id 재사용.md",
     "프로젝트 별 Issue 정리/기농이네 prj/Frontend/note/JavaScript 정규표현식 사용.md",
-    "프로젝트 별 Issue 정리/기농이네 prj/Frontend/note/로그인 시 비밀번호 표시.md",
     "자바/picture",
     "공부 정리",
     "Quick Manual/etc/note",
