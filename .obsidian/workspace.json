@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로젝트 별 Issue 정리/기농이네 prj/Newlecture 기농이네 Prj Issue.md",
+                "file": "공부 정리/자바 기초/0. 자바 기초.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Newlecture 기농이네 Prj Issue"
+              "title": "0. 자바 기초"
             }
           },
           {
@@ -205,16 +205,20 @@
   },
   "active": "870669c0631abcdb",
   "lastOpenFiles": [
+    "공부 정리/공부 정리.md",
+    "공부 정리/자바 기초/0. 자바 기초.md",
+    "자바 기초/자바 기초.md",
+    "자바 기초",
+    "자바.md",
+    "프로젝트 별 Issue 정리/기농이네 prj/Newlecture 기농이네 Prj Issue.md",
+    "프로젝트 별 Issue 정리/프로젝트 별 Issue 정리.md",
     "프로젝트 별 Issue 정리/기농이네 prj/Backend/note/reg페이지 post요청 시 403 에러.md",
     "프로젝트 별 Issue 정리/기농이네 prj/Backend/Backend.md",
-    "프로젝트 별 Issue 정리/기농이네 prj/Newlecture 기농이네 Prj Issue.md",
     "무제 파일.canvas",
-    "프로젝트 별 Issue 정리/프로젝트 별 Issue 정리.md",
     "기농이네 prj/Newlecture 기농이네 Prj Issue.md",
     "기농이네 prj",
     "공부 정리/Generic.md",
     "README.md",
-    "공부 정리/공부 정리.md",
     "프로젝트 별 Issue 정리",
     "기농이네 ER Diagram.drawio.png",
     "무제 파일.md",
@@ -233,9 +237,6 @@
     "프로젝트 별 Issue 정리/기농이네 prj/Backend/note/Auto Increment로 생성된 id 재사용.md",
     "프로젝트 별 Issue 정리/기농이네 prj/Frontend/note/JavaScript 정규표현식 사용.md",
     "프로젝트 별 Issue 정리/기농이네 prj/Frontend/note/로그인 시 비밀번호 표시.md",
-    "자바/3..md",
-    "프로젝트 별 Issue 정리/기농이네 prj/Frontend/Frontend.md",
-    "Quick Manual/Backend/Backend.md",
     "자바/picture",
     "공부 정리",
     "Quick Manual/etc/note",
@@ -244,7 +245,6 @@
     "프로젝트 별 Issue 정리/기농이네 prj/screenshot/스크린샷 2024-03-30 183515.png",
     "기농이네 prj/screenshot/image.png",
     "기농이네 prj/screenshot/절대 퇴실해 - 복사본 - 복사본 1.heic",
-    "기농이네 prj/screenshot/절대 퇴실해 - 복사본 - 복사본.heic",
     "프로젝트 별 Issue 정리/기농이네 prj/screenshot/스크린샷 2024-03-31 193618.png",
     "프로젝트 별 Issue 정리/기농이네 prj/screenshot/스크린샷 2024-03-31 102646.png",
     "프로젝트 별 Issue 정리/기농이네 prj/screenshot/스크린샷 2024-03-31 225145.png",
