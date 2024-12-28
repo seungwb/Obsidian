@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "자바/10. 다형성.md",
+                "file": "자바/자바 기초/9. 상속.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. 다형성"
+              "title": "9. 상속"
             }
           }
         ]
@@ -176,18 +176,19 @@
   },
   "active": "2498747aa45df740",
   "lastOpenFiles": [
-    "자바/6. 접근 제어자.md",
-    "자바/10. 다형성.md",
-    "자바/9. 상속.md",
-    "자바/8. final.md",
-    "자바/7. 자바 메모리 구조와 static.md",
-    "자바/3. 절차 지향 프로그래밍, 객체 지향 프로그래밍.md",
+    "자바/자바 기초/10. 다형성.md",
+    "자바/자바 기초/9. 상속.md",
+    "자바/자바 기초/6. 접근 제어자.md",
+    "자바/자바 기초/8. final.md",
+    "자바/자바 기초/7. 자바 메모리 구조와 static.md",
+    "자바/자바 기초/5. 패키지, Import.md",
+    "자바/자바 기초/3. 절차 지향 프로그래밍, 객체 지향 프로그래밍.md",
+    "자바/자바 기초/1. 클래스, 객체, 인스턴스.md",
+    "자바/자바 기초",
     "자바/Generic.md",
     "Quick Manual/Quick Manual.md",
-    "자바/5. 패키지, Import.md",
-    "자바/4. 생성자.md",
-    "자바/2. 기본형, 참조형.md",
-    "자바/1. 클래스, 객체, 인스턴스.md",
+    "자바/자바 기초/4. 생성자.md",
+    "자바/자바 기초/2. 기본형, 참조형.md",
     "기농이네 prj/Backend/note/Auto Increment로 생성된 id 재사용.md",
     "기농이네 prj/Frontend/note/JavaScript 정규표현식 사용.md",
     "기농이네 prj/Frontend/note/로그인 시 비밀번호 표시.md",
@@ -205,7 +206,6 @@
     "Quick Manual/etc/note/git merge 관련 문제.md",
     "Quick Manual/etc/etc.md",
     "기농이네 prj/Backend/note/Mapper 파일 맵핑 에러.md",
-    "기농이네 prj/Frontend/note/Selector 옵션 hover 시 색이 파란색으로 고정.md",
     "Quick Manual/etc/note",
     "Quick Manual/Frontend/note",
     "Quick Manual/Backend/note",
@@ -219,7 +219,6 @@
     "`",
     "무제 파일 1.canvas",
     "기농이네 prj",
-    "기농이네 prj/Frontend/note",
     "기농이네 prj/screenshot/스크린샷 2024-04-28 191841.png",
     "기농이네 prj/screenshot/스크린샷 2024-04-02 091045.png",
     "기농이네 prj/screenshot/스크린샷 2024-04-02 091157.png",
