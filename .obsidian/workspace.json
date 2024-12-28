@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick Manual/Quick Manual.md",
+                "file": "프로젝트 별 Issue 정리/프로젝트 별 Issue 정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quick Manual"
+              "title": "프로젝트 별 Issue 정리"
             }
           },
           {
@@ -219,13 +219,14 @@
   },
   "active": "da1c22f6ff008c00",
   "lastOpenFiles": [
+    "공부 정리/공부 정리.md",
+    "프로젝트 별 Issue 정리/프로젝트 별 Issue 정리.md",
+    "공부 정리/자바 기초/0. Intro.md",
     "README.md",
+    "Quick Manual/Quick Manual.md",
     "프로젝트 별 Issue 정리/기농이네 prj/Frontend/Frontend.md",
     "프로젝트 별 Issue 정리/기농이네 prj/Newlecture 기농이네 Prj Issue.md",
     "프로젝트 별 Issue 정리/기농이네 prj/Backend/Backend.md",
-    "프로젝트 별 Issue 정리/프로젝트 별 Issue 정리.md",
-    "공부 정리/공부 정리.md",
-    "공부 정리/자바 기초/0. Intro.md",
     "공부 정리/자바 기초/10. 다형성.md",
     "공부 정리/자바 기초/9. 상속.md",
     "공부 정리/자바 기초/8. final.md",
@@ -248,7 +249,6 @@
     "기농이네 ER Diagram.drawio.png",
     "무제 파일.md",
     "공부 정리/자바 기초",
-    "Quick Manual/Quick Manual.md",
     "프로젝트 별 Issue 정리/기농이네 prj/Backend/note/Auto Increment로 생성된 id 재사용.md",
     "프로젝트 별 Issue 정리/기농이네 prj/Frontend/note/JavaScript 정규표현식 사용.md",
     "자바/picture",
