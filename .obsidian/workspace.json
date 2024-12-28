@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "자바/자바 기초/9. 상속.md",
+                "file": "자바/자바 기초/10. 다형성.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. 상속"
+              "title": "10. 다형성"
             }
           }
         ]
@@ -176,9 +176,9 @@
   },
   "active": "2498747aa45df740",
   "lastOpenFiles": [
-    "자바/자바 기초/10. 다형성.md",
-    "자바/자바 기초/9. 상속.md",
     "자바/자바 기초/6. 접근 제어자.md",
+    "자바/자바 기초/9. 상속.md",
+    "자바/자바 기초/10. 다형성.md",
     "자바/자바 기초/8. final.md",
     "자바/자바 기초/7. 자바 메모리 구조와 static.md",
     "자바/자바 기초/5. 패키지, Import.md",
