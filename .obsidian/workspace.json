@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공부 정리/네트워크/개요.md",
+                "file": "공부 정리/자바 중급/8. Enum Type.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "개요"
+              "title": "8. Enum Type"
             }
           }
         ]
@@ -176,9 +176,9 @@
   },
   "active": "2498747aa45df740",
   "lastOpenFiles": [
+    "공부 정리/네트워크/개요.md",
     "공부 정리/공부 정리.md",
     "공부 정리/Generic.md",
-    "공부 정리/네트워크/개요.md",
     "공부 정리/자바 중급/8. Enum Type.md",
     "공부 정리/네트워크",
     "공부 정리/자바 중급/6. System 클래스.md",
