@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공부 정리/자바 중급/9. 날짜와 시간.md",
+                "file": "공부 정리/자바 중급/10. 중첩 클래스, 내부 클래스.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. 날짜와 시간"
+              "title": "10. 중첩 클래스, 내부 클래스"
             }
           }
         ]
@@ -176,8 +176,8 @@
   },
   "active": "2498747aa45df740",
   "lastOpenFiles": [
-    "공부 정리/자바 중급/8. Enum Type.md",
     "공부 정리/자바 중급/9. 날짜와 시간.md",
+    "공부 정리/자바 중급/8. Enum Type.md",
     "공부 정리/자바 중급/7. Math, Random 클래스.md",
     "공부 정리/자바 중급/6. System 클래스.md",
     "공부 정리/자바 중급/5. Class 클래스.md",
