@@ -11,17 +11,14 @@
             "id": "2f0a9d4e3a51a4ec",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "무제 파일.canvas",
-                "viewState": {
-                  "x": -540,
-                  "y": 400,
-                  "zoom": 0
-                }
+                "file": "프로젝트 별 Issue 정리/투두등장/Backend/개요.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "무제 파일"
+              "icon": "lucide-file",
+              "title": "개요"
             }
           }
         ]
@@ -180,14 +177,16 @@
   },
   "active": "2f0a9d4e3a51a4ec",
   "lastOpenFiles": [
-    "README.md",
-    "무제 파일.canvas",
-    "프로젝트 별 Issue 정리/개요.md",
+    "프로젝트 별 Issue 정리/기농이네 prj/Backend/Backend.md",
+    "프로젝트 별 Issue 정리/투두등장/Backend/개요.md",
     "프로젝트 별 Issue 정리/투두등장/개요.md",
+    "프로젝트 별 Issue 정리/개요.md",
+    "README.md",
+    "().md",
+    "무제 파일.canvas",
     "공부 정리/공부 정리.md",
     "프로젝트 별 Issue 정리/기농이네 prj/개요.md",
     "Backend/개요.md",
-    "프로젝트 별 Issue 정리/투두등장/Backend/개요.md",
     "Backend",
     "프로젝트 별 Issue 정리/투두등장/Frontend/개요.md",
     "프로젝트 별 Issue 정리/투두등장/Frontend",
@@ -212,7 +211,6 @@
     "공부 정리/자바 중급/6. System 클래스.md",
     "공부 정리/자바 중급/7. Math, Random 클래스.md",
     "공부 정리/자바 중급/8. Enum Type.md",
-    "공부 정리/자바 중급/9. 날짜와 시간.md",
     "프로젝트 별 Issue 정리/편의점/Backend/note",
     "프로젝트 별 Issue 정리/편의점/Backend",
     "프로젝트 별 Issue 정리/편의점",
