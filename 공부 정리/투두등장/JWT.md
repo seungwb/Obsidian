@@ -44,10 +44,12 @@ Header.Payload.Signature
 - 클레임의 종류는 Registered claims, Public claims, Private claims 로 나뉜다.
 	-  등록된 클레임 ( Registered claims )
 		- 등록된 클레임들은 토큰에 대한 정보들을 담기위하여 이름이 이미 정해진 클레임들이다. 필수는 아니지만, 권장되어 진다.
-			- iss : 토큰 발급자
-			- sub : 토큰 
-			- aud
-			- exp
-			- nbf
-			- iat
-			- jti
+			- iss : 토큰을 발급한 주체(서버 또는 시스템) 의 식별자
+			- sub : 토큰이 인증하는 주체 (사용자 또는 서비스)
+			- aud : 토큰이 사용될 대상 시스템 또는 수신자
+			- exp : 토큰 만료 시간
+			- nbf : 토큰 활성 시작 시간
+			- iat : 토큰 발급 시간
+			- jti : 토큰 중복사용 방지를 위한 고유한 식별자 
+	-  공개 클레임 ( Public Claim )
+		- 
