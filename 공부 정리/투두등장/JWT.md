@@ -22,7 +22,7 @@ Header.Payload.Signature
 }
 ```
 
-- 헤더는 두가지 타입의 정보를 가지고 있다.
+- Header는 두 가지 타입의 정보를 가지고 있다.
 	- `alg` : Signature 해싱 알고리즘
 	- `typ` : 토큰의 타입
 
@@ -39,3 +39,4 @@ Header.Payload.Signature
 }
 ```
 
+- Payload에는 토큰에 담을 정보가 들어있다.
