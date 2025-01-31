@@ -11,7 +11,7 @@ xxxxxx.yyyyyy.zzzzzz
 Header.Payload.Signature
 ```
 
-- JWT는 Header, Payload, Signature로 구성되어 있다. 
+- JWT는 Header, Payload, Signature 로 구성되어 있다. 
 
 ##### 헤더 (Header)
 
@@ -40,3 +40,14 @@ Header.Payload.Signature
 ```
 
 - Payload에는 토큰에 담을 정보가 들어있다.
+- 이곳에 담는 정보의 조각을 클레임 (Claim) 이라고 부르고, Key/ Value 형식으로 이루어져 있다.
+- 클레임의 종류는 Registered claims, Public claims, Private claims 로 나뉜다.
+	-  등록된 클레임 ( Registered claims )
+		- 등록된 클레임들은 토큰에 대한 정보들을 담기위하여 이름이 이미 정해진 클레임들이다. 필수는 아니지만, 권장되어 진다.
+			- iss : 토큰 발급자
+			- sub : 토큰 
+			- aud
+			- exp
+			- nbf
+			- iat
+			- jti
