@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로젝트 별 Issue 정리/투두등장/Backend/note/PostgreSQL 서버 연결 에러.md",
+                "file": "프로젝트 별 Issue 정리/투두등장/Backend/개요.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PostgreSQL 서버 연결 에러"
+              "title": "개요"
             }
           }
         ]
@@ -177,8 +177,8 @@
   },
   "active": "2f0a9d4e3a51a4ec",
   "lastOpenFiles": [
-    "프로젝트 별 Issue 정리/투두등장/Backend/개요.md",
     "프로젝트 별 Issue 정리/투두등장/Backend/note/PostgreSQL 서버 연결 에러.md",
+    "프로젝트 별 Issue 정리/투두등장/Backend/개요.md",
     "프로젝트 별 Issue 정리/투두등장/Backend/note",
     "프로젝트 별 Issue 정리/기농이네 prj/Backend/note/reg페이지 post요청 시 403 에러.md",
     "프로젝트 별 Issue 정리/기농이네 prj/Backend/Backend.md",
