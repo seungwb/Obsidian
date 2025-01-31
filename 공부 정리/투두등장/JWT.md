@@ -60,4 +60,5 @@ Header.Payload.Signature
 
 ##### 서명 (Signature)
 
-- 
+- Signature 는 토큰을 인코딩하거나 유효성 검증을 할 때 사용하는 고유한 암호화 코드이다.
+- 위에서 만든 헤더(Header)와 정보(Payload)의 값을 각각 BASE64로 인코딩하고, 인코딩한 값을 비밀 키를 이용해 헤더(Header)에서 정의한 알고리즘으로 해싱하고, 이 값을 다시 BASE64로 인코딩하여 생성한다.
