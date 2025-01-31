@@ -51,5 +51,6 @@ Header.Payload.Signature
 			- nbf : 토큰 활성 시작 시간
 			- iat : 토큰 발급 시간
 			- jti : 토큰 중복사용 방지를 위한 고유한 식별자 
-	-  공개 클레임 ( Public Claim )
-		- 
+	-  공개 클레임 ( Public claims )
+		- 공개 클레임에는 누구나 읽을 수 있는 정보가 포함되므로 공개되면 안되는 정보(비밀번호, 계좌 번호 등)는 포함하면 안된다.
+	-  비공개 클레임 ( Rpivate claims )
