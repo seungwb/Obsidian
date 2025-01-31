@@ -52,5 +52,7 @@ Header.Payload.Signature
 			- iat : 토큰 발급 시간
 			- jti : 토큰 중복사용 방지를 위한 고유한 식별자 
 	-  공개 클레임 ( Public claims )
+		- 다른 개발자나 서비스와의 충돌을 방지하기 위해 [IANA JSON Web Token Claims Registry](https://www.iana.org/assignments/jwt/jwt.xhtml) 에 등록된 클레임을 사용하여야 한다.
 		- 공개 클레임에는 누구나 읽을 수 있는 정보가 포함되므로 공개되면 안되는 정보(비밀번호, 계좌 번호 등)는 포함하면 안된다.
 	-  비공개 클레임 ( Rpivate claims )
+		- 비공개 클레임은 개인이나 특정 조직에서 내부적으로 정의하는 클레임이다.
