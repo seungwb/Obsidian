@@ -1,5 +1,5 @@
 
-git bash를 사용하다가 merge가 필요한지에 관한 commit message를 남기라는 메세지가 나옴
+- git bash를 사용하다가 merge가 필요한지에 관한 commit message를 남기라는 메세지가 나옴
 
 
 > [! ] 
