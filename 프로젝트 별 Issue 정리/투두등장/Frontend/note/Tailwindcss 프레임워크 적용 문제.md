@@ -17,7 +17,7 @@ npx tailwindcss init -p
 ```sh
 npm install tailwindcss @tailwindcss/vite
 ```
-- tailwindcss install, vite가 아닌 다른 걸 사용한다면 tailwind 홈페이지 참조
+- tailwindcss install, vite가 아닌 다른 걸 사용한다면 [tailwind 홈페이지 참조](https://tailwindcss.com/docs/installation/framework-guides)
 
 ##### 2. vite.config.ts 수정
 
