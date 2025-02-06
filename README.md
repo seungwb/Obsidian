@@ -1,4 +1,4 @@
-### [Quick Manual](<Quick Manual/Quick Manual.md>)
+### [Quick Manual](<Quick Manual.md>)
 
 ### [공부 정리](</공부 정리/공부 정리.md>)
 
