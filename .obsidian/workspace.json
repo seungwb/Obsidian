@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "0f3df87f0df970ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quick Manual/Backend/note/자주 사용하는 어노테이션.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "자주 사용하는 어노테이션"
+            }
+          },
+          {
             "id": "4a6b5918e4503754",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "9. 날짜와 시간"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,8 +205,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5ce7e20eda5fe2af",
+  "active": "0f3df87f0df970ca",
   "lastOpenFiles": [
+    "Quick Manual/Backend/Backend.md",
+    "공부 정리/투두등장/Lombok 어노테이션.md",
+    "공부 정리/투두등장/DTO와 Entity 차이.md",
+    "공부 정리/투두등장/CORS.md",
     "개인 프로젝트/투두등장 (일정관리)/REST API 명세서.md",
     "개인 프로젝트/투두등장 (일정관리)/아키텍처 설계.md",
     "개인 프로젝트/투두등장 (일정관리)/기획.md",
@@ -214,11 +233,7 @@
     "공부 정리/자바 기초/1. 클래스, 객체, 인스턴스.md",
     "공부 정리/네트워크/개요.md",
     "공부 정리/스프링 입문",
-    "공부 정리/투두등장/Lombok 어노테이션.md",
     "공부 정리/투두등장/개요.md",
-    "Quick Manual/etc/etc.md",
-    "Quick Manual.md",
-    "Quick Manual/etc/note/Github에 잘못 올라간 파일 삭제.md",
     "무제 파일.canvas",
     "프로젝트 별 Issue 정리/투두등장/Frontend/note",
     "note",
