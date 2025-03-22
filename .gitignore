@@ -3,3 +3,5 @@
 .tmp.driveupload/
 .tmp.drivedownload/
 .obsidian/
+index.md
+.export-ignore
