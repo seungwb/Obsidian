@@ -1,7 +1,7 @@
 ---
 tags:
   - "#ETCStudy"
-content:
+content: 유튜브 코딩애플님 강의
 ---
 
 
