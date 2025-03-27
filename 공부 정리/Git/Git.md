@@ -1,10 +1,19 @@
 ---
 tags:
   - "#ETCStudy"
-content: 유튜브 코딩애플님 강의
+content: Git 강의
 ---
 
 
+%% DATAVIEW_PUBLISHER: start
 ```dataview
-TABLE file.path AS "경로" FROM "공부 정리/Git" WHERE file.name != "Git" SORT file.name asc
+list from #GitStudy_CA sort file.name asc
 ```
+%%
+
+- [[공부 정리/투두등장/CORS.md|CORS]]
+- [[공부 정리/투두등장/DTO와 Entity 차이.md|DTO와 Entity 차이]]
+- [[공부 정리/투두등장/JWT.md|JWT]]
+- [[공부 정리/투두등장/Lombok 어노테이션.md|Lombok 어노테이션]]
+
+%% DATAVIEW_PUBLISHER: end %%
