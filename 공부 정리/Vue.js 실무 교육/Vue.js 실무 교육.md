@@ -1,18 +1,19 @@
 ---
 tags:
+  - TVET
   - Vue
+content: 실무 교육 과정
 ---
-### 직무 교육
----
+
 %% DATAVIEW_PUBLISHER: start
 ```dataview
-list from #job-training-vue sort asc
+list from #TVET-Vue sort file.name asc
 ```
 %%
 
 | 목차                                         | 내용 |
 | ------------------------------------------ | -- |
-| [[2025-03-28\|2025-03-28]] | \- |
+| [[2025-03-28_ 강의 개요\|2025-03-28]] | \- |
 
 %% DATAVIEW_PUBLISHER: end %%
 

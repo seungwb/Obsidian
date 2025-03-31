@@ -6,7 +6,7 @@ content: 프로젝트 별 이슈  정리하고 해결까지의 과정을 담은 
 
 %% DATAVIEW_PUBLISHER: start
 ```dataview
-table content as "내용" from #Issue
+table content as "내용" from #Issue sort file.name asc
 ```
 %%
 

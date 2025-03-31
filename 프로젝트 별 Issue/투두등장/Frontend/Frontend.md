@@ -4,7 +4,7 @@ tags:
 ---
 %% DATAVIEW_PUBLISHER: start
 ```dataview
-table file.tags as "키워드" from #FrontTodoIssue
+table file.tags as "키워드" from #FrontTodoIssue sort file.name asc
 ```
 %%
 
