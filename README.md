@@ -1,10 +1,5 @@
-### [Quick Manual](<Quick Manual.md>)
+### Obsidian 개인 노트
 
-### [공부 정리](</공부 정리/공부 정리.md>)
+---
 
-### [프로젝트 별 Issue 정리](<프로젝트 별 Issue.md>)
-
-
-
-
-
+[개인 블로그](https://seungwb.github.io)에 정리하여 올리고 있습니다.
