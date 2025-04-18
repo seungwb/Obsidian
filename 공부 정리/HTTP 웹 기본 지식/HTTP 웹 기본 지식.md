@@ -11,6 +11,6 @@ list from #NetworkStudy sort file.name asc
 ```
 %%
 
-- [[공부 정리/네트워크/인터넷 네트워크.md|인터넷 네트워크]]
+- [[01. 인터넷 네트워크|01. 인터넷 네트워크]]
 
 %% DATAVIEW_PUBLISHER: end %%
