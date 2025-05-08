@@ -1,6 +1,7 @@
 ---
 tags:
   - SpringStudy
+  - JSPStudy
 content: 실무 교육 과정
 ---
 %% DATAVIEW_PUBLISHER: start
