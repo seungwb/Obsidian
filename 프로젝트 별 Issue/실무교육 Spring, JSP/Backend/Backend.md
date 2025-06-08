@@ -4,7 +4,7 @@ tags:
 ---
 %% DATAVIEW_PUBLISHER: start
 ```dataview
-list from #TVET-Spring-Issue-back sort file.name asc
+table file.tags as "키워드" from #TVET-Spring-Issue-back sort file.name asc
 ```
 %%
 
